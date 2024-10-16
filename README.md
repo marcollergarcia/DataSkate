@@ -7,5 +7,5 @@ Anàlisis de dades esportives especialitzat en la visualització d'estadístique
 
 --- 
 <div align="center">
-  Copyright ©2024 @marcollergarcia, https://hakim.se
+  Copyright ©2024 @marcollergarcia, https://github.com/marcollergarcia/DataSkate
 </div>
